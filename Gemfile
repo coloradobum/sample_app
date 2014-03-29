@@ -11,6 +11,7 @@ group :development, :test do
   gem 'guard-spork', '1.5.0'
   gem 'childprocess', '0.3.6'
   gem 'guard-rspec', '2.5.0'
+  gem 'rb-readline'
 end
 
 group :test do
